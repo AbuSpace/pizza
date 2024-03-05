@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-#Ator
-##Verbos
-##Informações
-##Regras de Negócio
+Como **\<Ator\>** Desejo **\<Funcionalidade\>** Para **\<Valor\>**
 
-
+**Critérios de Aceite**
+  - Verbos
+  - Informações
+  - Regras de Negócio
