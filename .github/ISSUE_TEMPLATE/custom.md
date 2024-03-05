@@ -7,8 +7,9 @@ assignees: ''
 
 ---
 
-|Ator |Verbos |Informações |Regras de Negócio|
-|-----|-------|------------|-----------------|
-|     |       |            |                 |
+#Ator
+##Verbos
+##Informações
+##Regras de Negócio
 
 
