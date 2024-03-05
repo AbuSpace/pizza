@@ -7,4 +7,10 @@ assignees: ''
 
 ---
 
+** Ator **
 
+** Verbos **
+
+** Informações **
+
+** Regras de Negocio **
