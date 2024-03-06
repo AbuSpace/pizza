@@ -12,7 +12,28 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 
 ### Margherita
 
-XXXX
+![Margherita](images/margherita-pizza.png)
+
+## Ingredientes
+
+- 1 Bola de Pizza
+- Molho de Tomate
+- Mussarela
+- Manjericão
+- Azeite
+- Temperos a Gosto
+
+## Instructions
+
+1. Abrir massa de pizza
+2. Colocar Molho de Tomate
+3. Colocar Mussarela
+4. Colocar Folhas de Manjericão
+5. Colocar um fio de Azeite
+6. Temperar a Gosto
+7. Assar até a cor da massa ficar a gosto
+8. Fatiar
+9. Comer :-)
 
 ### Pepperoni
 
