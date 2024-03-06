@@ -8,7 +8,7 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 
 - [Margherita](#Margherita)
 - [Pepperoni](#Pepperoni)
-- [4 Queijos🧀](4-Queijos)
+- [4 Queijos🧀](#4-Queijos)
 
 ### Margherita
 
@@ -23,7 +23,7 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 - Azeite
 - Temperos a Gosto
 
-## Instructions
+## Passo a Passo
 
 1. Abrir massa de pizza
 2. Colocar Molho de Tomate
@@ -37,9 +37,13 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 
 ### Pepperoni
 
-XXXX
+- Foto
+- Ingredientes
+- Passo a Passo
 
 ### 4 Queijos
 
-XXXX
+- Foto
+- Ingredientes
+- Passo a Passo
 
