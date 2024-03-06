@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/open-sauced/pizza-verse.git"
+    "url": "git+https://github.com/AbuSpace/pizza.git"
   },
   "keywords": [
     "open-source"
   ],
-  "author": "BekahHW",
+  "author": "Nelson Abu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/open-sauced/pizza-verse/issues"
+    "url": "https://github.com/AbuSpace/pizza/pizza-verse/issues"
   },
-  "homepage": "https://github.com/open-sauced/pizza-verse#readme"
+  "homepage": "https://github.com/AbuSpace/pizza/pizza-verse#readme"
 }
