@@ -12,7 +12,7 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 
 ### Margherita
 
-![Margherita](images/margherita-pizza.png)
+![Margherita](./images/margherita_pizza.png)
 
 ## Ingredientes
 
