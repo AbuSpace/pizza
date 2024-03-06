@@ -1,5 +1,5 @@
 {
-  "name": "pizza-verse",
+  "name": "pizza",
   "version": "1.0.0",
   "description": "a markdown repository for people to contribute their favorite pizza-related content",
   "main": "index.js",
@@ -16,7 +16,7 @@
   "author": "Nelson Abu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AbuSpace/pizza/pizza-verse/issues"
+    "url": "https://github.com/AbuSpace/pizza/issues"
   },
-  "homepage": "https://github.com/AbuSpace/pizza/pizza-verse#readme"
+  "homepage": "https://github.com/AbuSpace/pizza#readme"
 }
