@@ -20,6 +20,7 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 - Molho de Tomate
 - Mussarela
 - Manjericão
+- Tomates
 - Azeite
 - Temperos a Gosto
 
@@ -28,12 +29,13 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 1. Abrir massa de pizza
 2. Colocar Molho de Tomate
 3. Colocar Mussarela
-4. Colocar Folhas de Manjericão
-5. Colocar um fio de Azeite
-6. Temperar a Gosto
-7. Assar até a cor da massa ficar a gosto
-8. Fatiar
-9. Comer :-)
+4. Colocar Tomates
+5. Colocar Folhas de Manjericão
+6. Colocar um fio de Azeite
+7. Temperar a Gosto
+8. Assar até a cor da massa ficar a gosto
+9. Fatiar
+10. Comer :-)
 
 ### Pepperoni
 
