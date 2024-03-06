@@ -1,4 +1,4 @@
-# pizza
+# Dinâmica da Pizza
 
 ## [Receitas de Pizzas](Receitas-Pizzas.md)
 ## [Pizzas Regionais](#pizzas-regionais)
