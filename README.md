@@ -1,3 +1,5 @@
+![](./images/ABU%20pizza%20-%20Laranja.png)
+
 # Dinâmica da Pizza
 
 ## [Receitas de Pizzas](Receitas-Pizzas.md)
