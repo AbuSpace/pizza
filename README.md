@@ -1,4 +1,4 @@
-![](./images/ABU%20pizza%20-%20Laranja.png)
+<img src="https://github.com/AbuSpace/pizza/blob/main/images/logo.png" width="50%" height="50%">
 
 # Dinâmica da Pizza
 
