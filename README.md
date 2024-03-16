@@ -1,4 +1,4 @@
-<img src="https://github.com/AbuSpace/pizza/blob/main/images/logo.png" width="10%" height="50%">
+<img src="./images/logo.png" width="10%" height="50%">
 
 # Dinâmica da Pizza
 
