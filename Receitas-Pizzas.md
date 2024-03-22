@@ -9,13 +9,13 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 - [Margherita](#Margherita)
 - [Pepperoni](#Pepperoni)
 - [4 Queijos🧀](#4-Queijos)
-- [[#25](https://github.com/AbuSpace/pizza/issues/25)]
+- [Deep Pizza](https://github.com/AbuSpace/pizza/issues/25)
 
-### Margherita
+# Margherita
 
 ![Margherita](./images/margherita_pizza.jpg)
 
-## Ingredientes
+# Ingredientes
 
 - 1 Bola de Pizza
 - Molho de Tomate
@@ -25,7 +25,7 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 - Azeite
 - Temperos a Gosto
 
-## Passo a Passo
+# Passo a Passo
 
 1. Abrir massa de pizza
 2. Colocar Molho de Tomate
@@ -38,44 +38,44 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 9. Fatiar
 10. Comer :-)
 
-### Pepperoni
+# Pepperoni
 
 - Foto
 - Ingredientes
 - Passo a Passo
 
-### 4 Queijos
+# 4 Queijos
 
 - Foto
 - Ingredientes
 - Passo a Passo
 
-### Deep Pizza
+# Deep Pizza
 
-## Preparação da Massa
+### Preparação da Massa
 - Misturar farinha, água, sal e fermento.
 - Sovar a massa até ficar macia e elástica.
 - Deixar a massa descansar e crescer.
 
-## Preparação do Molho de Tomate
+### Preparação do Molho de Tomate
 - Triturar tomates frescos.
 - Refogar os tomates com alho e temperos.
 - Deixar o molho apurar.
 
-## Preparação dos Ingredientes
+### Preparação dos Ingredientes
 - Cortar os vegetais (pimentão, cebola, cogumelos).
 - Fatiar os ingredientes de carne (pepperoni, linguiça).
 - Preparar outros ingredientes desejados (azeitonas, pimentas).
 
-## Montagem da Pizza
+### Montagem da Pizza
 - Esticar a massa e colocá-la na forma de pizza profunda.
 - Espalhar o molho de tomate sobre a massa.
 - Adicionar queijo.
 - Adicionar os ingredientes preparados.
 
-## Assar a Pizza
+### Assar a Pizza
 - Pré-aquecer o forno.
 - Colocar a pizza no forno e assar até dourar.
 - Retirar a pizza do forno e deixar esfriar um pouco antes de servir.
 
-## Servir e Desfrutar da Deep Pizza!
+### Servir e Desfrutar da Deep Pizza!
