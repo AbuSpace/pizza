@@ -51,7 +51,7 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 - Passo a Passo
 
 # Deep Pizza
-
+![alt text](image.png)
 ### Preparação da Massa
 - Misturar farinha, água, sal e fermento.
 - Sovar a massa até ficar macia e elástica.
