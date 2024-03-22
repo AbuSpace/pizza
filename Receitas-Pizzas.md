@@ -9,6 +9,7 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 - [Margherita](#Margherita)
 - [Pepperoni](#Pepperoni)
 - [4 Queijos🧀](#4-Queijos)
+- [Frango com Catupiry](#Frango-com-Catupiry)
 - [Deep Pizza](https://github.com/AbuSpace/pizza/issues/25)
 
 # Margherita
@@ -52,6 +53,7 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 
 # Deep Pizza
 ![alt text](image.png)
+
 ### Preparação da Massa
 - Misturar farinha, água, sal e fermento.
 - Sovar a massa até ficar macia e elástica.
@@ -79,3 +81,10 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 - Retirar a pizza do forno e deixar esfriar um pouco antes de servir.
 
 ### Servir e Desfrutar da Deep Pizza!
+
+
+### Frango com Catupiry
+
+- Foto
+- Ingredientes
+- Passo a Passo
