@@ -9,6 +9,7 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 - [Margherita](#Margherita)
 - [Pepperoni](#Pepperoni)
 - [4 Queijos🧀](#4-Queijos)
+- [Frango com Catupiry](#Frango-com-Catupiry)
 
 ### Margherita
 
@@ -44,6 +45,12 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 - Passo a Passo
 
 ### 4 Queijos
+
+- Foto
+- Ingredientes
+- Passo a Passo
+
+### Frango com Catupiry
 
 - Foto
 - Ingredientes
