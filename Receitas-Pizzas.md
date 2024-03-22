@@ -10,6 +10,7 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 - [Pepperoni](#Pepperoni)
 - [4 Queijos🧀](#4-Queijos)
 - [[#25](https://github.com/AbuSpace/pizza/issues/25)]
+
 ### Margherita
 
 ![Margherita](./images/margherita_pizza.jpg)
