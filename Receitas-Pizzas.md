@@ -9,7 +9,7 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 - [Margherita](#Margherita)
 - [Pepperoni](#Pepperoni)
 - [4 Queijos🧀](#4-Queijos)
-- [Linguiça Blumenau](#Linguiça Blumenau)
+- [Linguiça Blumenau](#Linguiça-Blumenau)
 - [Frango com Catupiry](#Frango-com-Catupiry)
 - [Deep Pizza](https://github.com/AbuSpace/pizza/issues/25)
 
