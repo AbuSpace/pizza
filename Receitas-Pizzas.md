@@ -76,4 +76,4 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 8. Assar até a cor da massa ficar a gosto
 9. Colocas as folhas de rúculas picadas ou não
 10. Fatiar
-11. Comer :-)
+11. Comer 😋
