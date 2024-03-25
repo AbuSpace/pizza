@@ -36,6 +36,7 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 7. Temperar a Gosto
 8. Assar até a cor da massa ficar a gosto
 9. Fatiar
+10. Entregar
 10. Comer :-)
 
 # Pepperoni
