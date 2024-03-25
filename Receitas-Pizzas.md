@@ -48,3 +48,32 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 - Foto
 - Ingredientes
 - Passo a Passo
+
+# Rúcula com Tomate Seco
+
+![RuculaTomateSeco](./images/RuculaTomateSeco.jpg)
+
+# Ingredientes
+
+- 1 Bola de Pizza
+- Molho de Tomate
+- Mussarela
+- Majericão
+- Rúcula
+- Tomate Seco
+- Azeite
+- Temperos a gosto
+
+# Passo a Passo
+
+1. Abrir massa de pizza
+2. Colocar molho de tomate
+3. Colocar mussarela
+4. Colocar folhas de manjericão
+5. Colocar tomates Secos
+6. Colocar um fio de azeite
+7. Temperar a gosto
+8. Assar até a cor da massa ficar a gosto
+9. Colocas as folhas de rúculas picadas ou não
+10. Fatiar
+11. Comer :-)
