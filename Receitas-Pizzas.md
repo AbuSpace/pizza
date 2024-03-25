@@ -9,6 +9,7 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 - [Margherita](#Margherita)
 - [Pepperoni](#Pepperoni)
 - [4 Queijos🧀](#4-Queijos)
+- [Aliche] ([#39](https://github.com/AbuSpace/pizza/issues/39))
 
 # Margherita
 
