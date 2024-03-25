@@ -9,6 +9,7 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 - [Margherita](#Margherita)
 - [Pepperoni](#Pepperoni)
 - [4 Queijos🧀](#4-Queijos)
+- [3 Castanhas🧀](#3-Castanhas)
 
 # Margherita
 
