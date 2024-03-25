@@ -5,7 +5,7 @@ Bem-vindo à seção Receitas de Pizza do nosso repositório! 🍕🍴
 Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas de pizza compartilhadas por outros entusiastas de pizza. Dos favoritos clássicos às criações inovadoras, você encontrará inspiração para criar sua pizza caseira perfeita. Pegue seu avental, pré-aqueça o forno e vamos cozinhar!
 
 ## Pizzas
-
+- [Bacon] ([#43](https://github.com/AbuSpace/pizza/issues/43))
 - [Margherita](#Margherita)
 - [Pepperoni](#Pepperoni)
 - [4 Queijos🧀](#4-Queijos)
@@ -24,6 +24,7 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 - Tomates
 - Azeite
 - Temperos a Gosto
+- Bacon
 
 # Passo a Passo
 
@@ -36,6 +37,7 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 7. Temperar a Gosto
 8. Assar até a cor da massa ficar a gosto
 9. Fatiar
+10. Entregar
 10. Comer :-)
 
 # Pepperoni
@@ -49,3 +51,6 @@ Nesta seção, convidamos você a explorar uma variedade de deliciosas receitas 
 - Foto
 - Ingredientes
 - Passo a Passo
+
+
+# Bacon
